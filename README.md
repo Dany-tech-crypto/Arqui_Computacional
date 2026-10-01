@@ -1,4 +1,4 @@
-# Arquitectura Computacional — sumadores
+# :P Arquitectura Computacional — sumadores
 
 ## Instalación
 
