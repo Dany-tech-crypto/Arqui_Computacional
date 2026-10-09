@@ -1,0 +1,3 @@
+[submodule "alu8"]
+	path = alu8
+	url = https://github.com/rtrevinnoc/arquitecturaComputacional.git
